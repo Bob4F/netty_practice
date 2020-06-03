@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b88816f3-c67a-4e24-928d-688306c05655" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/netty/bio/TimeClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/netty/bio/TimeServer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/netty/bio/TimeServerHandler.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1cnFGlaYMOg4yJkR6sQ6gYtJz7I" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/resources" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="G:\git\netty_practice\src\main\resources" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.TimeClient">
+    <configuration name="TimeClient" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.netty.bio.TimeClient" />
+      <module name="netty_practice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.netty.bio.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TimeServer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.netty.bio.TimeServer" />
+      <module name="netty_practice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.netty.bio.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.TimeClient" />
+        <item itemvalue="Application.TimeServer" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b88816f3-c67a-4e24-928d-688306c05655" name="Default Changelist" comment="" />
+      <created>1591156356396</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1591156356396</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="624" y="74" key="#Auto_Import" timestamp="1591157524242">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="624" y="74" key="#Auto_Import/0.0.1440.860@0.0.1440.860" timestamp="1591157524241" />
+    <state x="312" y="90" key="#Project_Structure" timestamp="1591156889320">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="312" y="90" key="#Project_Structure/0.0.1440.860@0.0.1440.860" timestamp="1591156889320" />
+    <state x="1050" y="154" key="#com.intellij.ide.util.MemberChooser" timestamp="1591157224629">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="1050" y="154" key="#com.intellij.ide.util.MemberChooser/0.0.1440.860@0.0.1440.860" timestamp="1591157224629" />
+    <state width="1396" height="210" key="GridCell.Tab.0.bottom" timestamp="1591163714550">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state width="1396" height="210" key="GridCell.Tab.0.bottom/0.0.1440.860@0.0.1440.860" timestamp="1591163714550" />
+    <state width="1396" height="210" key="GridCell.Tab.0.center" timestamp="1591163714550">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state width="1396" height="210" key="GridCell.Tab.0.center/0.0.1440.860@0.0.1440.860" timestamp="1591163714550" />
+    <state width="1396" height="210" key="GridCell.Tab.0.left" timestamp="1591163714550">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state width="1396" height="210" key="GridCell.Tab.0.left/0.0.1440.860@0.0.1440.860" timestamp="1591163714550" />
+    <state width="1396" height="210" key="GridCell.Tab.0.right" timestamp="1591163714550">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state width="1396" height="210" key="GridCell.Tab.0.right/0.0.1440.860@0.0.1440.860" timestamp="1591163714550" />
+  </component>
+</project>
